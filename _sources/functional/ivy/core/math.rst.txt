@@ -21,11 +21,11 @@ Math
    math/atan2.rst
    math/sinh.rst
    math/cosh.rst
-   math/tanh.rst
    math/asinh.rst
    math/acosh.rst
    math/atanh.rst
    math/log.rst
    math/exp.rst
    math/erf.rst
+   math/divide.rst
 

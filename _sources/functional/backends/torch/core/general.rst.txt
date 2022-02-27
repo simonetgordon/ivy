@@ -16,6 +16,8 @@ General
    general/is_array.rst
    general/copy_array.rst
    general/array_equal.rst
+   general/dtype_bits.rst
+   general/equal.rst
    general/to_numpy.rst
    general/to_scalar.rst
    general/to_list.rst
@@ -52,7 +54,6 @@ General
    general/indices_where.rst
    general/isnan.rst
    general/isinf.rst
-   general/isfinite.rst
    general/reshape.rst
    general/broadcast_to.rst
    general/squeeze.rst
